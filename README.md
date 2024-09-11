@@ -8,4 +8,5 @@
 
 -Here is a link to [Cherokee Street Events](https://cherokeestreet.com/events)
 
+-Here is a link to [Kaggle Craft Beer Sales](https://www.kaggle.com/datasets/podsyp/sales-in-craft-beer-bar)
 more material added here
