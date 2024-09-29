@@ -9,4 +9,7 @@
 -Here is a link to [Cherokee Street Events](https://cherokeestreet.com/events)
 
 -Here is a link to [Kaggle Craft Beer Sales](https://www.kaggle.com/datasets/podsyp/sales-in-craft-beer-bar)
+
+-This week is tricky I used data from Toast our POS system which I can't give you. I had AI make up fictional but relative numbers.
+
 more material added here
